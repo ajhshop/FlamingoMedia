@@ -32,7 +32,7 @@ p {
     font-weight: 300;
 }
 a {
-  color: #72C05B;
+  color: #cd1959;
   -webkit-transition: color 400ms, background-color 400ms;
   -moz-transition: color 400ms, background-color 400ms;
   -o-transition: color 400ms, background-color 400ms;
@@ -41,7 +41,7 @@ a {
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #72C05B;
+  color: #cd1959;
 }
 hr {
   border-top: 1px solid #e5e5e5;
