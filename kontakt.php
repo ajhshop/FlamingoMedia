@@ -1,7 +1,7 @@
 <?php include 'header.php';?>
 
 <section>
-  <h1> Test </h1
+  <h1> Test </h1>
     <h2> Test </h2>
 
 </section>
